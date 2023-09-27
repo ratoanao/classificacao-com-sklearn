@@ -5,5 +5,6 @@
 Para rodar esse projeto em sua máquina, por favor digite:
 
 ```
-pip install graphviz      
+pip install graphviz
+node app.js
 ```
